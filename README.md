@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Ajay Dobhal
+- 👀 I’m interested in powershell scripting
+- 🌱 I’m currently learning powershell scripting
+- 📫 you can reach me on ajydobhal.2012@gmail.com
